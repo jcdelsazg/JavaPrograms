@@ -6,3 +6,4 @@
 
 1. Hello World
 2. Number Variables
+3. Char Boolean String Variables
