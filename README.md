@@ -8,3 +8,4 @@
 2. Number Variables
 3. Char Boolean String Variables
 4. Operators
+5. Statements, Expressions and methods
